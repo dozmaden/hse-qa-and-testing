@@ -1,6 +1,7 @@
-# HSE Quality Assurance & Testing (2021 course)
-## Homeworks
+# HSE. Quality Assurance & Testing (2021 course)
+## ВШЭ. Математические методы анализа данных
 
+## Homeworks
 * [Homework 3](https://github.com/dozmaden/hse-qa-and-testing/tree/homework-3)
 * [Homework 4](https://github.com/dozmaden/hse-qa-and-testing/tree/homework-4)
 * [Homework 5](https://github.com/dozmaden/hse-qa-and-testing/tree/homework-5)
