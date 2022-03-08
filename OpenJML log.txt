@@ -1,0 +1,24 @@
+Proving methods in BinomialCoefficient
+Starting proof of BinomialCoefficient.BinomialCoefficient() with prover z3_4_3
+Method assertions are validated [1.27 secs]
+BinomialCoefficient.java:3:Feasibility check #1 - end of preconditions : OK [0.01 secs]
+BinomialCoefficient.java:3:Feasibility check #2 - at program exit : OK [0.01 secs]
+Completed proof of BinomialCoefficient.BinomialCoefficient() with prover z3_4_3 - no warnings [1.67 secs]
+Starting proof of BinomialCoefficient.binomialCoeff(int,int) with prover z3_4_3
+Method assertions are validated [1.47 secs]
+BinomialCoefficient.java:11:Feasibility check #1 - end of preconditions : OK [0.02 secs]
+BinomialCoefficient.java:11:Feasibility check #11 - at program exit : OK [0.12 secs]
+Completed proof of BinomialCoefficient.binomialCoeff(int,int) with prover z3_4_3 - no warnings [2.21 secs]
+Completed proving methods in BinomialCoefficient [3.93 secs]
+Summary:
+  Valid:        2
+  Invalid:      0
+  Infeasible:   0
+  Timeout:      0
+  Error:        0
+  Skipped:      0
+ TOTAL METHODS: 2
+ Classes:       1 proved of 1
+ Model Classes: 0
+ Model methods: 0 proved of 0
+ DURATION:          4.6 secs
