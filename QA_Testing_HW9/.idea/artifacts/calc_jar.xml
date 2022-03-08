@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="calc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/calc_jar</output-path>
+    <root id="archive" name="QA_Testing_HW7.jar">
+      <element id="module-output" name="QA_Testing_HW9" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Jazzer/jazzer_api_deploy.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
