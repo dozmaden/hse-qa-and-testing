@@ -1,4 +1,4 @@
-# HSE Quality Assurance & Testing
+# HSE Quality Assurance & Testing (2021 course)
 ## Homeworks
 
 * [Homework 3](https://github.com/dozmaden/hse-qa-and-testing/tree/homework-3)
