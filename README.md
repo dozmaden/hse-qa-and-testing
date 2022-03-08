@@ -1,6 +1,6 @@
 # HSE Software Quality Assurance & Testing (2021 course)
 
-## Homeworks
+## Homework
 * [Homework 3](https://github.com/dozmaden/hse-qa-and-testing/tree/homework-3)
 * [Homework 4](https://github.com/dozmaden/hse-qa-and-testing/tree/homework-4)
 * [Homework 5](https://github.com/dozmaden/hse-qa-and-testing/tree/homework-5)
